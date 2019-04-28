@@ -1,4 +1,5 @@
-![3D_bin_packing Logo](https://github.com/mohitesh07/3d-bin-packing/blob/master/3dbp_logo.png=200x200) 
+![3D_bin_packing Logo](https://github.com/mohitesh07/3d-bin-packing/blob/master/3dbp_logo.png)
+
 # 3D-Bin-Packing
 
 ![Version Details](https://img.shields.io/badge/version-1.0-brightgreen.svg)

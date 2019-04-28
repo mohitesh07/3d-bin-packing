@@ -1,10 +1,9 @@
-![3D_bin_packing Logo](https://github.com/mohitesh07/3d-bin-packing/blob/master/3dbp_logo.png)
-
+![3D_bin_packing Logo](https://github.com/mohitesh07/3d-bin-packing/blob/master/3dbp_logo.png=200x200) 
 # 3D-Bin-Packing
 
-[![Version Details](https://img.shields.io/badge/version-1.0-brightgreen.svg)]
-[![Download Details](https://img.shields.io/github/downloads/mohitesh07/3d-bin-packing/total.svg)]
-[![GitHub contributors](https://img.shields.io/github/contributors/mohitesh07/3d-bin-packing.svg)]
+![Version Details](https://img.shields.io/badge/version-1.0-brightgreen.svg)
+![Download Details](https://img.shields.io/github/downloads/mohitesh07/3d-bin-packing/total.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/mohitesh07/3d-bin-packing.svg)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 Based on Intelligent FIRST-FIT box placement having maximal spacing covered. What this code does is simple, it fits most of the 3D boxes in more than one 3D containers. In other words, it attempts to match a set of 3D items to one or more in a set of 3D containers. [See them in action here].

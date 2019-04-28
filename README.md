@@ -1,4 +1,4 @@
-![3D_bin_packing Logo](https://github.com/mohitesh07/3d-bin-packing/blob/master/3dbp_logo.png)
+![3D_bin_packing Logo](3dbp_logo.png)
 
 # 3D-Bin-Packing
 
@@ -20,9 +20,9 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)
 
 ### Usage Instructions
 boxes.csv
-![boxes.csv img](https://github.com/mohitesh07/3d-bin-packing/blob/master/boxes-img.png)
+![boxes.csv img](boxes-img.png)
 containers.csv
-![container.csv img](https://github.com/mohitesh07/3d-bin-packing/blob/master/container-img.png)
+![container.csv img](container-img.png)
 
 ### Output Format
 
